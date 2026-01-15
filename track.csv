@@ -1,0 +1,6 @@
+track_id,name,album_id,media_type_id,genre_id,milliseconds,unit_price
+1,Yellow,1,1,1,250000,0.99
+2,Fix You,2,1,1,270000,1.29
+3,Chaiyya Chaiyya,3,1,3,300000,1.49
+4,Blank Space,4,2,2,240000,1.19
+5,Believer,5,1,4,210000,1.09
