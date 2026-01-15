@@ -1,0 +1,6 @@
+A music store wants to analyze its sales data to understand customer spending patterns and popular music genres.
+Using the available data on customers, invoices, tracks, and genres, answer the following:
+
+1.Identify the best customer based on total purchase amount.
+
+2.Find the most popular music genre based on total tracks sold.
