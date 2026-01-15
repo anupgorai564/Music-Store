@@ -1,0 +1,13 @@
+--Most Popular Music Genre
+SELECT 
+    g.name AS genre,
+    SUM(il.quantity) AS total_tracks_sold
+FROM invoice_line il
+JOIN track t 
+    ON il.track_id = t.track_id
+JOIN genre g 
+    ON t.genre_id = g.genre_id
+GROUP BY g.name
+ORDER BY total_tracks_sold DESC
+LIMIT 1;
+
