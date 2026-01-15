@@ -1,0 +1,5 @@
+customer_id,first_name,last_name,email,country,city
+1,Alice,Brown,alice.brown@email.com,USA,New York
+2,Bob,Martin,bob.martin@email.com,Canada,Toronto
+3,Rahul,Sharma,rahul.sharma@email.com,India,Delhi
+4,Sneha,Patil,sneha.patil@email.com,India,Pune
