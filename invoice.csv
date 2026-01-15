@@ -1,0 +1,5 @@
+invoice_id,customer_id,invoice_date,billing_city,billing_country,total
+1,1,2024-01-10,New York,USA,2.28
+2,2,2024-01-12,Toronto,Canada,1.29
+3,3,2024-01-15,Delhi,India,2.58
+4,4,2024-01-20,Pune,India,1.09
